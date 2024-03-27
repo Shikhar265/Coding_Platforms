@@ -8,4 +8,4 @@
 
 [HackerRank](https://www.hackerrank.com/profile/gshikhar1383)
 
-[Exercism](https://exercism.org/tracks/java)
+[Exercism](https://exercism.org/profiles/intro)
