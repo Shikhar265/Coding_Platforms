@@ -1,3 +1,3 @@
 # Coding_Platforms
 
-[LEETCODE]{https://leetcode.com/Cyber_gupta/}
+[LEETCODE](https://leetcode.com/Cyber_gupta/)
